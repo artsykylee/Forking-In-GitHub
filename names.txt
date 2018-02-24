@@ -1,7 +1,7 @@
 Please enter your name and class in this file below:
 
 EXAMPLE: BRIAN RICHARD SAVAGE PRO-100
-
+Kylee Naugle WEB-115
 Brian Richard Savage PRO-100
 Brett Schultz WEB-115
 Jimmy De Jesus WEB-115
